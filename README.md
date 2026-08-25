@@ -1,4 +1,4 @@
-# Random User Next
+# Random Userdata Generator
 
 This is a simple app that generates a random user name.
 
